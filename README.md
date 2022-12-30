@@ -1,5 +1,5 @@
 # WebAppSecurity
-Aby uruchomić pliki z zadaniami należy:
+Aby uruchomić pliki z zadaniami należy:<br>
 mieć zainstalowanego Pythona dostępnego z linii komend przez ‘python’ (https://www.python.org/downloads/)
 uruchomić serwer Apache
 XAMPP: https://www.apachefriends.org/download.html
