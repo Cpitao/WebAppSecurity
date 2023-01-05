@@ -12,4 +12,4 @@ Aby uruchomić pliki z zadaniami należy:<br>
 - alternatywnie na Linuxie dowolny inny sposób uruchomienia serwera apache<br>
   - np. Kali Linux: sudo service apache2 start<br>
   - przeniesienie plików php do /var/www/html<br>
-- włączamy stronę z zadaniami: http://127.0.0.1/index.php<br>
+- włączamy stronę z zadaniami: http://127.0.0.1/
