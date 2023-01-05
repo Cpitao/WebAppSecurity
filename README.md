@@ -13,3 +13,5 @@ Aby uruchomić pliki z zadaniami należy:<br>
   - np. Kali Linux: sudo service apache2 start<br>
   - przeniesienie plików php do /var/www/html<br>
 - włączamy stronę z zadaniami: http://127.0.0.1/
+<br>
+Sugerowane robienie zadań po kolei. W razie problemów można przeskoczyć do kolejnego zadania (nietrudno zgadnąć jak).
